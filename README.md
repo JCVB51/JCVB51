@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#0078ff;">Juan Villacorta</span></h1>
+<h1 align="center">👋 Hey everyone, I'm <span style="color:#0078ff;">Juan Villacorta</span></h1>
 <h3 align="center">💻 Computer Science - Information Systems Major | California, USA</h3>
 
 ---
@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=800080&center=true&vCenter=true&width=500&lines=Student+Developer;AI+and+Web+Development+Enthusiast;Future+Data+Scientist;Always+Learning+Something+New" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=800080&center=true&vCenter=true&width=500&lines=Software+Developer;AI+and+Web+Development+Enthusiast;Future+Data+Scientist;Always+Learning+Something+New" alt="Typing Animation" />
 </p>
 
 ---
