@@ -18,7 +18,7 @@
 🎓 I’m a **Computer Science (Information Systems)** student based in **California**.  
 💡 Passionate about **AI**, **Web Development**, **Data Science**, and **Cybersecurity**.  
 🛠️ I love building projects that **solve real problems** and help me grow as a developer.  
-🌱 Currently working on **AI Study Assistant** — an AI-powered companion for smarter studying.  
+🌱 Currently working on **AI Companion** — an AI-powered companion for smarter interacting.  
 
 ---
 
@@ -33,17 +33,6 @@
 
 **Tools & Frameworks:**  
 🧩 Node.js • React • Flask • Git/GitHub • VS Code • Linux  
-
----
-
-## 🚀 Featured Project
-
-### 🔹 [AI Study Assistant](https://github.com/<your-username>/ai-study-assistant)
-> *An intelligent study companion that helps learners summarize notes, generate quizzes, and understand topics with AI.*
-
-- 🧠 Built using Python + AI APIs  
-- 📚 Designed to make studying more effective and interactive  
-- 💡 Ongoing project for AI-driven learning support
 
 ---
 
