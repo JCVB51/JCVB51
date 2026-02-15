@@ -2,9 +2,8 @@
 <h3 align="center">💻 Computer Science - Information Systems Major | California, USA</h3>
 
 ---
-<p align="center">
-  ### ✨ “Simple things should be simple, complex things should be possible.” ✨  
-</p>
+
+### ✨ “Simple things should be simple, complex things should be possible.” ✨  
 
 ---
 
