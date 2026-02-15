@@ -18,18 +18,18 @@
 🎓 I’m a **Computer Science (Information Systems)** student based in **California**.  
 💡 Passionate about **AI**, **Web Development**, **Data Science**, and **Cybersecurity**.  
 🛠️ I love building projects that **solve real problems** and help me grow as a developer.  
-🌱 Currently working on **AI Companion** — an AI-powered companion for smarter interacting.  
+🌱 Currently working on **Personal Projects** — something that will help me grow as a developer.  
 
 ---
 
 ## 🧠 Tech Stack & Skills
 
 **Programming Languages:**  
-`C++` • `C` • `Python` • `JavaScript` • `HTML` • `CSS` • `Assembly`
+`C++` • `C` • `Java` •  `Python` • `JavaScript` • `HTML` • `CSS` • `Assembly`
 
 **Core Knowledge Areas:**  
 💻 Operating Systems • Computer Architecture • Algorithms & Data Structures  
-⚙️ Networking Basics • Database Systems • Software Development Principles
+⚙️ Networking Basics • Database Systems • Software Development • Front & Back End
 
 **Tools & Frameworks:**  
 🧩 Node.js • React • Flask • Git/GitHub • VS Code • Linux  
