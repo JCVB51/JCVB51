@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=800080&center=true&vCenter=true&width=500&lines=Software+Developer;AI+and+Web+Development+Enthusiast;Future+Data+Scientist;Always+Learning+Something+New" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=800080&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Developer;Applications+Developer;Always+Learning+Something+New" alt="Typing Animation" />
 </p>
 
 ---
