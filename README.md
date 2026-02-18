@@ -49,16 +49,16 @@
 
 <div align="center">
 
-<!-- Main stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JCVB51&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<!-- Main stats (self-hosted) -->
+<img height="165" src="https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=JCVB51&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
 
 <!-- Streak -->
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JCVB51&theme=github-dark-blue&hide_border=true" />
 
 <br/>
 
-<!-- Top languages -->
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCVB51&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+<!-- Top languages (self-hosted) -->
+<img height="165" src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=JCVB51&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400" />
 
 </div>
 
