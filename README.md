@@ -45,14 +45,7 @@
 
 ---
 
-### GitHub Stats
-<p>
-  <img align="left" height="165"
-       src="https://github-readme-stats.vercel.app/api?username=JCVB51&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&hide_title=false&disable_animations=false&hide=contribs&cache_seconds=7200" />
-  <img align="right" height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCVB51&layout=compact&langs_count=8&hide_title=false&cache_seconds=7200" />
-</p>
-<br clear="both"/>
+
 ---
 
 ## 🌐 Connect with Me
