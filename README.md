@@ -45,33 +45,12 @@
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=JCVB51&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&hide_title=false&hide=contribs&disable_animations=false&cache_seconds=7200&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      height="165"
-      alt="JCVB51 GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=JCVB51&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&hide_title=false&hide=contribs&disable_animations=false&cache_seconds=7200&theme=default"
-    />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JCVB51&layout=compact&langs_count=8&hide_title=false&cache_seconds=7200&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      height="165"
-      alt="Top languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCVB51&layout=compact&langs_count=8&hide_title=false&cache_seconds=7200&theme=default"
-    />
-  </picture>
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JCVB51&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCVB51&layout=compact&theme=github_dark&hide_border=true" />
+</div>
 
 ---
 
