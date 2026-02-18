@@ -48,9 +48,22 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JCVB51&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCVB51&layout=compact&theme=github_dark&hide_border=true" />
+
+<!-- Main stats -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JCVB51&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+<!-- Streak -->
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JCVB51&theme=github-dark-blue&hide_border=true" />
+
+<br/>
+
+<!-- Top languages -->
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCVB51&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+
 </div>
+
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JCVB51&theme=github-dark&hide_border=true" />
 
 ---
 
