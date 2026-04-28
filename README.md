@@ -18,7 +18,7 @@
 
 ## About
 
-I am a **Computer Science (Information Systems)** student at California State University, Bakersfield, with an expected graduation of Spring 2027 and a GPA of 3.2. My focus areas include full-stack web development, systems design, AI, data science, and cybersecurity. I am driven by building software that solves real problems and contributes to the broader developer community.
+I am a **Computer Science (Information Systems)** student at California State University, Bakersfield, with an expected graduation of Spring 2027. My focus areas include full-stack web development, systems design, AI, data science, and cybersecurity. I am driven by building software that solves real problems and contributes to the broader developer community.
 
 Currently deepening my expertise in **REST APIs, WebSockets, authentication systems**, and **client-server architecture** through coursework and independent development.
 
@@ -28,7 +28,7 @@ Currently deepening my expertise in **REST APIs, WebSockets, authentication syst
 
 **California State University, Bakersfield** — Bakersfield, CA  
 Bachelor of Science, Computer Science — Information Systems  
-Expected Graduation: Spring 2027 &nbsp;|&nbsp; GPA: 3.2
+Expected Graduation: Spring 2027 &nbsp;|&nbsp; 
 
 Relevant Coursework: Operating Systems &nbsp;·&nbsp; Computer Networks &nbsp;·&nbsp; Linux Systems Administration &nbsp;·&nbsp; Database Systems &nbsp;·&nbsp; Algorithms Analysis
 
