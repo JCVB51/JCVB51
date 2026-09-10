@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=540&height=40&lines=Exploring+full-stack+development;Learning+software+engineering;Backend+projects%2C+APIs+and+databases;C%2B%2B+and+Linux;Always+learning%2C+always+building" alt="Exploring full-stack development, software engineering, backend projects, C++ and Linux" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=540&height=40&lines=Learning+Full-Stack+Development;Software+Engineering;Backend+projects%2C+APIs+and+Databases;C%2B%2B+and+Linux;Always+learning%2C+always+building" alt="Exploring full-stack development, software engineering, backend projects, C++ and Linux" />
 </p>
 
 <p align="center">
@@ -61,10 +61,10 @@ More project code: **[Kern County Event Hub](https://github.com/JCVB51/Kern-Coun
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | C++, C, Java, JavaScript, TypeScript, Python, SQL, PHP, HTML, CSS |
+| **Languages** | C++, C, JavaScript, TypeScript, SQL, PHP, HTML, CSS |
 | **Frameworks and libraries** | React, Express.js, Angular, Bootstrap, Tailwind CSS |
 | **Runtime** | Node.js |
-| **Tools and platforms** | Git, GitHub, Linux, VS Code, IntelliJ IDEA, DigitalOcean, Vim |
+| **Tools and platforms** | Git & GitHub, Linux, VS Code, DigitalOcean, Nvim & Vim |
 | **Databases and data models** | MySQL, SQLite, NoSQL |
 
 **Concepts I'm studying and applying**
@@ -85,9 +85,6 @@ Operating Systems · Computer Networks · Linux Systems Administration · Databa
 
 - **2nd Place — CSUB Coding Cup, Upper Division**  
   Spring 2026 · Individual placement.
-
-- **Organizer — Software Engineering Club, CSUB**  
-  Fall 2026–present · Helping schedule activities, brainstorm improvements, and develop ideas to involve more STEM students in coding sessions, hackathons, Coding Cup events, and tournaments.
 
 - **CSUB Hackathon Participant**  
   May 2026 · Worked with a team on **TechPath Kern**.
