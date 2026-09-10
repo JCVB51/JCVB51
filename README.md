@@ -1,126 +1,120 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F222E,50:6D28D9,100:A78BFA&height=110&section=header" width="100%" alt="" />
+</p>
+
 <h1 align="center">Juan Villacorta</h1>
 
-<h3 align="center">Computer Science — Information Systems &nbsp;|&nbsp; California State University, Bakersfield</h3>
+<h3 align="center">Computer Science · Information Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/JCVB51"><img src="https://img.shields.io/badge/GitHub-JCVB51-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/juan-villacorta-747372359"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Villacorta-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:juanvill2204@gmail.com"><img src="https://img.shields.io/badge/Email-juanvill2204%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  California State University, Bakersfield<br />
+  Expected graduation: <strong>Spring 2027</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Software+Engineer;Computer+Science+%26+Information+Systems;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=540&height=40&lines=Exploring+full-stack+development;Learning+software+engineering;Backend+projects%2C+APIs+and+databases;C%2B%2B+and+Linux;Always+learning%2C+always+building" alt="Exploring full-stack development, software engineering, backend projects, C++ and Linux" />
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/JCVB51"><img src="https://img.shields.io/badge/GitHub-JCVB51-1F222E?style=flat-square&logo=github&logoColor=white" alt="GitHub: JCVB51" /></a>
+  <a href="https://www.linkedin.com/in/juan-villacorta-747372359/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=flat-square" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:juanvill2204@gmail.com"><img src="https://img.shields.io/badge/Email-juanvill2204%40gmail.com-1F222E?style=flat-square&logo=gmail&logoColor=white" alt="Email: juanvill2204@gmail.com" /></a>
+</p>
 
-## About
+<p align="center">
+  <a href="#about-me">About</a> ·
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#tech-stack">Tech stack</a> ·
+  <a href="#education">Education</a> ·
+  <a href="#achievements-and-involvement">Involvement</a>
+</p>
 
-I am a **Computer Science (Information Systems)** student at California State University, Bakersfield, with an expected graduation of Spring 2027. My focus areas include full-stack web development, systems design, AI, data science, and cybersecurity. I am driven by building software that solves real problems and contributes to the broader developer community.
+## About me
 
-Currently deepening my expertise in **REST APIs, WebSockets, authentication systems**, and **client-server architecture** through coursework and independent development.
+I'm a **Computer Science student concentrating in Information Systems** at California State University, Bakersfield. Most of my team project work has focused on **backend development, APIs, and databases**, with occasional frontend contributions.
 
----
+My interests include **full-stack web development, systems design, artificial intelligence, data science, and cybersecurity**. I enjoy working with **C++**, exploring **Linux and automation**, and building software that solves real problems and contributes to the broader developer community.
+
+I'm currently learning more about **REST APIs, WebSockets, authentication systems, and client-server architecture** through coursework and independent development.
+
+## Featured projects
+
+| Project | What it explores |
+| :--- | :--- |
+| **[BlackAegis](https://github.com/JCVB51/BlackAegis)** | Team messaging application featuring encrypted messaging and public/private key pairs. |
+| **[TechPath Kern](https://github.com/JCVB51/techpath-kern)** | An opportunity navigator for Kern County students, developed with a team during the CSUB hackathon. |
+| **[RunnerQuest: Explore CSUB](https://github.com/JCVB51/runnerquest-explore-csub)** | A 2D, top-down campus exploration game inspired by CSUB. |
+
+More project code: **[Kern County Event Hub](https://github.com/JCVB51/Kern-County-Event-Hub)** · **[Portfolio](https://github.com/JCVB51/portfolio)**
+
+## Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-1F222E?style=flat-square&logo=cplusplus&logoColor=A78BFA" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-1F222E?style=flat-square&logo=typescript&logoColor=A78BFA" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-1F222E?style=flat-square&logo=react&logoColor=A78BFA" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1F222E?style=flat-square&logo=tailwindcss&logoColor=A78BFA" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Linux-1F222E?style=flat-square&logo=linux&logoColor=A78BFA" alt="Linux" />
+</p>
+
+**C++ is one of my stronger languages.** I've used TypeScript, React, and Tailwind CSS in projects, and have foundational knowledge of C, JavaScript, HTML, CSS, Git, and Linux. The broader list below reflects my coursework and project exposure; my familiarity varies by technology.
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | C++, C, Java, JavaScript, TypeScript, Python, SQL, PHP, HTML, CSS |
+| **Frameworks and libraries** | React, Express.js, Angular, Bootstrap, Tailwind CSS |
+| **Runtime** | Node.js |
+| **Tools and platforms** | Git, GitHub, Linux, VS Code, IntelliJ IDEA, DigitalOcean, Vim |
+| **Databases and data models** | MySQL, SQLite, NoSQL |
+
+**Concepts I'm studying and applying**
+
+REST APIs · WebSockets · JWT authentication · Client-server architecture · Algorithms and data structures · Operating systems · Networking
 
 ## Education
 
 **California State University, Bakersfield** — Bakersfield, CA  
-Bachelor of Science, Computer Science — Information Systems  
-Expected Graduation: Spring 2027 &nbsp;|&nbsp; 
+Bachelor of Science in Computer Science, Information Systems concentration  
+**Expected graduation: Spring 2027**
 
-Relevant Coursework: Operating Systems &nbsp;·&nbsp; Computer Networks &nbsp;·&nbsp; Linux Systems Administration &nbsp;·&nbsp; Database Systems &nbsp;·&nbsp; Algorithms Analysis
+**Relevant coursework**
 
----
+Operating Systems · Computer Networks · Linux Systems Administration · Database Systems · Algorithm Analysis
 
-## Technical Skills
+## Achievements and involvement
 
-**Languages**
+- **2nd Place — CSUB Coding Cup, Upper Division**  
+  Spring 2026 · Individual placement.
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- **Organizer — Software Engineering Club, CSUB**  
+  Fall 2026–present · Helping schedule activities, brainstorm improvements, and develop ideas to involve more STEM students in coding sessions, hackathons, Coding Cup events, and tournaments.
 
-**Frameworks & Libraries**
+- **CSUB Hackathon Participant**  
+  May 2026 · Worked with a team on **TechPath Kern**.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+## What I'm working toward
 
-**Tools & Platforms**
+- Contribute to open-source projects and collaborate with other developers.
+- Deepen my understanding of AI, data science, and distributed systems design.
+- Build software that is reliable, purposeful, and impactful.
+- Continue growing through real-world engineering challenges.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+<details>
+  <summary><strong>A few words I keep in mind</strong></summary>
 
-**Databases**
+> "Simple things should be simple, complex things should be possible."
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+> "Code with purpose. Learn with passion. Build with integrity."
 
-**Concepts:** REST APIs &nbsp;·&nbsp; WebSockets &nbsp;·&nbsp; JWT Authentication &nbsp;·&nbsp; Client-Server Architecture &nbsp;·&nbsp; Algorithms & Data Structures &nbsp;·&nbsp; Operating Systems &nbsp;·&nbsp; Networking
+</details>
 
----
-
-## Achievements & Involvement
-
-- **2nd Place — CSUB Coding Cup, Upper Division** (Spring 2026)
-- **Software Engineering Club** — Active Member, CSUB
-- **CSUB Hackathon Participant** (May 2026)
-
----
-
-## Goals
-
-- Contribute to open-source projects and collaborate with other developers
-- Deepen expertise in AI, data science, and distributed systems design
-- Build software that is reliable, purposeful, and impactful
-- Continue growing through real-world engineering challenges
-
----
-
-## GitHub Stats
+<br />
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JCVB51&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  &nbsp;
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JCVB51&theme=github-dark-blue&hide_border=true" />
+  If you find one of my projects useful, consider giving its repository a star.<br />
+  Your support encourages me to keep learning and building.
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCVB51&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JCVB51&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>"Simple things should be simple, complex things should be possible."</i>
-</p>
-
-<p align="center">
-  <i>“Code with purpose. Learn with passion. Build with integrity.”</i>
-</p>
-
-<p align="center">
-  ⭐ If you like what I do, consider giving my repos a star — it helps me keep building cool stuff!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F222E,50:6D28D9,100:A78BFA&height=80&section=footer" width="100%" alt="" />
 </p>
